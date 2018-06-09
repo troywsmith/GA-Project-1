@@ -1,14 +1,14 @@
 # Project One
 
-![Live App](https://pages.git.generalassemb.ly/troywsmith/project-one/)
+[Live App](https://pages.git.generalassemb.ly/troywsmith/project-one/)
 
 ## Pac-Man 
 
-###Core Technologies:
+### Core Technologies:
 
-HTML
-CSS
-JavaScript (jQuery for Dom manipulation)
+- HTML
+- CSS
+- JavaScript (jQuery for Dom manipulation)
 
 
 ### Approach taken:
@@ -41,7 +41,7 @@ created frogger movement by adding and subtracting x and y values
 - enemy movements were created by generating random numbers and movements when a collision with a border was detected (if statements)
 
 
-### Main Challenges
+### Main Challenges:
 
 - styling
 - perfecting collision detection (need more functions to detect all outside edges of each object)
