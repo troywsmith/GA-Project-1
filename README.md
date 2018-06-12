@@ -13,7 +13,7 @@
 
 ### Approach taken:
 
-- tarted by creating board with 100 divs. then assinging classes to each div (pacman, enemy, border, block)
+- started by creating board with 100 divs. then assinging classes to each div (pacman, enemy, border, block)
 - created pacman movement by adding and removing classes to Divs
 - pacman moved by adding 'pacman' class when player hit certain keys
 - enemy movements were created by generating random numbers and movements when a collision with a border was detected (if statements)
